@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">👋 Hello there, I'm <span style="color:#00C2FF;">Muhammad Sakr </span></h1>
-<h3 align="center">💻 Backend Developer |  Competitive Programmer </h3>
+<h3 align="center">💻 Backend Developer  |  Competitive Programmer </h3>
 
 <p align="center">
 Currently Learning <b>Back-end Development</b> with <b>PHP</b> and <b>Laravel</b>.
