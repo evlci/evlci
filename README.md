@@ -96,7 +96,7 @@ In Progress...
 <a href="https://x.com/MuhamedSakrr" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
----
+
 
 <!-- ======================= QUOTE ======================= -->
 ## 💬 Quote 
