@@ -77,27 +77,25 @@ In Progress...
 <!-- ======================= CONNECT ======================= -->
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/evlci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/evlci" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo_mini.svg" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/MuhamedSakrr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/7mody" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:muhamedsakrr9@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" />
-  </a>
-</p>
+<a href="https://github.com/evlci" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/7mody" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:muhamedsakrr9@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/evlci" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://x.com/MuhamedSakrr" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 ---
 
 <!-- ======================= QUOTE ======================= -->
