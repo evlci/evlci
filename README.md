@@ -13,7 +13,7 @@ I'm also a <b>member of GDG Back-end Team</b>, working in a collaborative enviro
 <!-- ======================= ABOUT ME ======================= -->
 ## 🧠 About Me
 
-👋 I'm <b>Muhammad Sakr</b>, a Software Engineering student at the Faculty of Computers and Information, Zagazig University, majoring in <b> Computer Science</b>.
+👋 I'm <b>Muhammad Sakr</b>, a 2nd Year Software Engineering student at the Faculty of Computers and Information, Zagazig University, majoring in <b> Computer Science</b>.
 Interested in reading, sports, philosophy, astronomy, energy science, and have a curious mind, and love to know everything.
 
 💡 What drives me:  
